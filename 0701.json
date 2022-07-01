@@ -2,7 +2,7 @@
 // 配置地址 --> clan://localhost/TVBox/0701.json
 {
 "spider":"https://chuanshuo123200.github.io/0/0701.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2NodWFuc2h1bzEyMzIwMC5naXRodWIuaW8vMC90cy50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2NodWFuc2h1bzEyMzIwMC5naXRodWIuaW8vMC90cy50eHQ=="]}]}],
 
 
 "sites":[
